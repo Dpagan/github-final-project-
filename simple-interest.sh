@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # dwight.pagan@upr.edu
+   # Dwight Pagan
 
    # Input:
    # p, principal amount
